@@ -53,3 +53,4 @@
 - **NFT** - non fungible tokens
 - **DeFi** - decentralised finance 
 - Miners
+- dApp - decentralised application
