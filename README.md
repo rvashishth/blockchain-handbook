@@ -12,6 +12,10 @@
 
 ## TODOs
 
+### Read
+
+- [ ] https://drive.google.com/file/d/1F1QNr0BMvS4_NIWfYbjD-14kva3wkyKp/view
+
 ### Questions 
 
 1. Does NFT build on blockchain?
@@ -42,6 +46,7 @@
 #### Videos
 
 - [Basics of blockchain ecosystem](https://www.youtube.com/watch?v=jE5gihGbvKs&t=88s), https://juhaekman.com/blockchain-ecosystems-crypto-ecosystems
+- [ArGoApp whitepaper](https://drive.google.com/file/d/1F1QNr0BMvS4_NIWfYbjD-14kva3wkyKp/view)
 
 #### Blogs
 
