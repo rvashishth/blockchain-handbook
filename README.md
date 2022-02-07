@@ -1,4 +1,5 @@
 - [TODOs](#todos)
+  - [Questions](#questions)  
 - [Use Cases](#use-cases)
 - [Tech Landscape](#tech-landscape)
   - [Smart Contracts coding languages](#smart-contracts-coding-languages)
@@ -11,11 +12,14 @@
 
 ## TODOs
 
+### Questions 
+
 1. Does NFT build on blockchain?
 2. How to diff blockchain apps connect?
 3. Blockchain vs smart contracts
 4. Coin marketplaces
 5. List/understand cloud services built for blockchain/smart contracts
+6. Who will mine samller applications, i.e. bitcoin transactions are verified by 100s of miners across globe. How a small application will be decentralised? 
 
 ## Use Cases
 
