@@ -26,6 +26,8 @@
 6. Who will mine samller applications, i.e. bitcoin transactions are verified by 100s of miners across globe. How a small application will be decentralised? 
 7. Where/how distributed hosting platform deploy apps, how they gurantee apps availibility?
 8. Crypto coin vs token 
+9. How to ensure low latency on decentralised cloud. undrelaying tech can outgrow too much to become slow or people can move out of it. 
+10. How to write once and deploy anywhere code? like containers?
 
 ## Use Cases
 
