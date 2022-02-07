@@ -1,6 +1,6 @@
 - [TODOs](#todos)
 - [Use Cases](#use-cases)
-- [Smart Contracts](#smart-contracts)
+- [Tech Landscape](#tech-landscape)
   - [Smart Contracts coding languages](#smart-contracts-coding-languages)
 - [Learning](#learning)
   - [Good Reads](#good-reads)
@@ -19,18 +19,11 @@
 
 ## Use Cases
 
-## Smart Contracts
+[Use Cases](./use-cases.md)
 
-https://www.ibm.com/topics/smart-contracts
+## Tech Landscape
 
-### Smart Contracts coding languages
-
-> most of the are targeted towards some virtual machines
-
-1. [Solidity](https://soliditylang.org/)(Ethereum)
-2. [Vyper](https://vyper.readthedocs.io/en/stable/)(EVM - Ethereum Virtual Machine)
-3. Rust
-4. Haskell
+[Technology Landscape](./tech-ecosystem.md)
 
 ## Learning
 
