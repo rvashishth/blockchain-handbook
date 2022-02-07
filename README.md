@@ -42,7 +42,7 @@ https://www.ibm.com/topics/smart-contracts
 
 #### Videos
 
-- [Basics of blockchain ecosystem](https://www.youtube.com/watch?v=jE5gihGbvKs&t=88s)
+- [Basics of blockchain ecosystem](https://www.youtube.com/watch?v=jE5gihGbvKs&t=88s), https://juhaekman.com/blockchain-ecosystems-crypto-ecosystems
 
 #### Blogs
 
@@ -51,3 +51,6 @@ https://www.ibm.com/topics/smart-contracts
 - Launchapd
 - TrustSwap
 - SmartContracts
+- **ICO** - initial coin offering
+- **NFT** - non fungible tokens
+- **DeFi** - decentralised finance 
