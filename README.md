@@ -56,4 +56,5 @@
 - Miners
 - dApp - Decentralised Application
 - Web3
-- TEEs -  Trusted Execution Environments
+- **TEE** - Trusted Execution Environments
+- **DSN** - Decentralised Storage Networks
