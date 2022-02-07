@@ -52,3 +52,4 @@
 - **ICO** - initial coin offering
 - **NFT** - non fungible tokens
 - **DeFi** - decentralised finance 
+- Miners
