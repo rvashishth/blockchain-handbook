@@ -7,10 +7,15 @@
   - [One Time](#one-time)
     - [Videos](#videos)
     - [Blogs](#blogs)
+- [Buzzwords](#buzzwords)
 
 ## TODOs
 
 1. Does NFT build on blockchain?
+2. How to diff blockchain apps connect?
+3. Blockchain vs smart contracts
+4. Coin marketplaces
+5. List/understand cloud services built for blockchain/smart contracts
 
 ## Use Cases
 
@@ -37,4 +42,12 @@ https://www.ibm.com/topics/smart-contracts
 
 #### Videos
 
+- [Basics of blockchain ecosystem](https://www.youtube.com/watch?v=jE5gihGbvKs&t=88s)
+
 #### Blogs
+
+## Buzzwords
+
+- Launchapd
+- TrustSwap
+- SmartContracts
