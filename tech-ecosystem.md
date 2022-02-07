@@ -22,4 +22,10 @@ Smart Contracts coding languages
 
 ## Decentralised Storage Networks
 
+or Decentralised Cloud Storage
+
 - https://filecoin.io/
+- https://www.arweave.org/technology
+- Blockweave 
+- https://sia.tech/
+- https://www.storj.io/
