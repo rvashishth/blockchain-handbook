@@ -1,3 +1,8 @@
+- [Programming Languages](#programming-languages)
+- [Decentralised cloud protocols](#decentralised-cloud-protocols)
+- [Decentralised application hosting](#decentralised-application-hosting)
+- [Decentralised Storage Networks](#decentralised-storage-networks)
+
 ## Programming Languages 
 
 Smart Contracts coding languages
@@ -8,6 +13,8 @@ Smart Contracts coding languages
 - [Vyper](https://vyper.readthedocs.io/en/stable/)(EVM - Ethereum Virtual Machine)
 - Rust
 - Haskell
+
+## Decentralised cloud protocols
 
 ## Decentralised application hosting 
 
