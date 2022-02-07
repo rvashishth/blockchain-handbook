@@ -51,7 +51,9 @@
 - TrustSwap
 - SmartContracts
 - **ICO** - initial coin offering
-- **NFT** - non fungible tokens
-- **DeFi** - decentralised finance 
+- **NFT** - Non-fungible Tokens
+- **DeFi** - Decentralised Finance 
 - Miners
-- dApp - decentralised application
+- dApp - Decentralised Application
+- Web3
+- TEEs -  Trusted Execution Environments
