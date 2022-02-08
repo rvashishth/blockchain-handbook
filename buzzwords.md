@@ -1,0 +1,12 @@
+- Launchapd
+- TrustSwap
+- SmartContracts
+- **ICO** - initial coin offering
+- **NFT** - Non-fungible Tokens
+- NFT Marketplace
+- **DeFi** - Decentralised Finance 
+- Miners
+- dApp - Decentralised Application
+- Web3
+- **TEE** - Trusted Execution Environments
+- **DSN** - Decentralised Storage Networks
