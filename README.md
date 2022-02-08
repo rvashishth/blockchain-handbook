@@ -15,19 +15,22 @@
 ### Read
 
 - [ ] https://drive.google.com/file/d/1F1QNr0BMvS4_NIWfYbjD-14kva3wkyKp/view
+- [ ] Coin vs Token
 
 ### Questions 
 
 1. Does NFT build on blockchain?
-2. How to diff blockchain apps connect?
+2. How to diff blockchain apps connect? brigde?
 3. Blockchain vs smart contracts
 4. Coin marketplaces
 5. List/understand cloud services built for blockchain/smart contracts
-6. Who will mine samller applications, i.e. bitcoin transactions are verified by 100s of miners across globe. How a small application will be decentralised? 
-7. Where/how distributed hosting platform deploy apps, how they gurantee apps availibility?
-8. Crypto coin vs token 
-9. How to ensure low latency on decentralised cloud. undrelaying tech can outgrow too much to become slow or people can move out of it. 
-10. How to write once and deploy anywhere code? like containers?
+
+## Theory
+
+### Coin vs Token
+### How dApps deploys
+
+#### Write once deploy anywhere
 
 ## Use Cases
 
