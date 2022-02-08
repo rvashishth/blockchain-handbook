@@ -1,6 +1,10 @@
 - [TODOs](#todos)
-  - [To Read](#read) 
-  - [Questions](#questions)  
+  - [Read](#read)
+  - [Questions](#questions)
+- [Theory](#theory)
+  - [Coin vs Token](#coin-vs-token)
+  - [How dApps deploys](#how-dapps-deploys)
+    - [Write once deploy anywhere](#write-once-deploy-anywhere)
 - [Use Cases](#use-cases)
 - [Tech Landscape](#tech-landscape)
 - [Learning](#learning)
@@ -8,6 +12,7 @@
   - [One Time](#one-time)
     - [Videos](#videos)
     - [Blogs](#blogs)
+- [Challenges](#challenges)
 - [Buzzwords](#buzzwords)
 
 ## TODOs
@@ -32,6 +37,22 @@
 
 #### Write once deploy anywhere
 
+- [TODOs](#todos)
+  - [Read](#read)
+  - [Questions](#questions)
+- [Theory](#theory)
+  - [Coin vs Token](#coin-vs-token)
+  - [How dApps deploys](#how-dapps-deploys)
+    - [Write once deploy anywhere](#write-once-deploy-anywhere)
+- [Use Cases](#use-cases)
+- [Tech Landscape](#tech-landscape)
+- [Learning](#learning)
+  - [Good Reads](#good-reads)
+  - [One Time](#one-time)
+    - [Videos](#videos)
+    - [Blogs](#blogs)
+- [Buzzwords](#buzzwords)
+  
 ## Use Cases
 
 [Use Cases](./use-cases.md)
@@ -55,16 +76,10 @@
 
 #### Blogs
 
+## Challenges 
+
+[Challenges](./challenges.md)
+
 ## Buzzwords
 
-- Launchapd
-- TrustSwap
-- SmartContracts
-- **ICO** - initial coin offering
-- **NFT** - Non-fungible Tokens
-- **DeFi** - Decentralised Finance 
-- Miners
-- dApp - Decentralised Application
-- Web3
-- **TEE** - Trusted Execution Environments
-- **DSN** - Decentralised Storage Networks
+[Buzzwords](./buzzwords.md)
