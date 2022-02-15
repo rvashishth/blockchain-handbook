@@ -14,6 +14,12 @@
 
 ## Overview
 
+**Economy Behind Blockchain**
+
+Each blockchain has the currency with it to incentivise people mining/working/validating on the blocks. Rising cost of the coins makes a blockchain famous and invites more users towards it.  Same is the logic why people may adopt a new blockchain. 
+
+Blochain and crypto going hand in hand. They complement it each other, and it's hard to imagine one exist without the other. 
+
 ## Use Cases
 
 [Use Cases](./use-cases.md)
