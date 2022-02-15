@@ -21,6 +21,14 @@
 
 - [ ] https://drive.google.com/file/d/1F1QNr0BMvS4_NIWfYbjD-14kva3wkyKp/view
 - [ ] Coin vs Token
+- [ ] Why blockchain need rewards, https://www.youtube.com/watch?v=8fbhI1qVj0c&t=603s
+- [ ] Scalibility Trilemma
+- [ ] Sharding
+- [ ] List of major blockchain and why they exist?
+- [ ] https://www.youtube.com/watch?v=mBdrvfytLDQ
+- [ ] MIT open courses on blockchain
+  - [ ] [cryptocurrency-engineering-and-design](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-s62-cryptocurrency-engineering-and-design-spring-2018/index.htm)
+  - [ ] [blockchain-and-money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/video-lectures/)
 
 ### Questions 
 
@@ -30,7 +38,9 @@
 4. Coin marketplaces
 5. List/understand cloud services built for blockchain/smart contracts
 
-## Theory
+## Blochain Theory
+
+### Overview
 
 ### Coin vs Token
 ### How dApps deploys
