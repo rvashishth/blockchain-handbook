@@ -1,5 +1,6 @@
 ### Read
 
+- [ ] SmartContracts, dApps, DeFi
 - [ ] https://drive.google.com/file/d/1F1QNr0BMvS4_NIWfYbjD-14kva3wkyKp/view
 - [ ] Coin vs Token
 - [ ] Why blockchain need rewards, https://www.youtube.com/watch?v=8fbhI1qVj0c&t=603s
