@@ -20,6 +20,10 @@ Each blockchain has the currency with it to incentivise people mining/working/va
 
 Blochain and crypto going hand in hand. They complement it each other, and it's hard to imagine one exist without the other. 
 
+**Coin vs Token** 
+
+Cryptocurrencies coins are the native asset of a blockchain like BTC, RBTC, or ETH, whereas tokens are built on an existing blockchain, using smart contracts. Consider coin as self owned car vs token as rental car. 
+
 ## Use Cases
 
 [Use Cases](./use-cases.md)
