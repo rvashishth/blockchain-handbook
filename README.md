@@ -5,9 +5,6 @@
 - [Learning](#learning)
   - [Courses](#courses)
   - [Good Reads](#good-reads)
-  - [One Time](#one-time)
-    - [Videos](#videos)
-    - [Articles](#articles)
 - [Challenges](#challenges)
 - [Buzzwords](#buzzwords)
 - [TODO](#todo)
@@ -46,16 +43,11 @@ Cryptocurrencies coins are the native asset of a blockchain like BTC, RBTC, or E
 
 ### Good Reads
 
-> places to revisit frequently
-
-### One Time
-
-#### Videos
+Wikipedia of blockchain: https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6
 
 - [Basics of blockchain ecosystem](https://www.youtube.com/watch?v=jE5gihGbvKs&t=88s), https://juhaekman.com/blockchain-ecosystems-crypto-ecosystems
 - [ArGoApp whitepaper](https://drive.google.com/file/d/1F1QNr0BMvS4_NIWfYbjD-14kva3wkyKp/view)
 
-#### Articles
 
 ## Challenges
 
