@@ -5,7 +5,7 @@ This document contain list of diff blockchain technologies, product and companie
 - [Ethereum](#ethereum)
 - [Cardano](#cardano)
 - [Solana](#solana)
-- [Birgert](#birgert)
+- [Bitgert](#bitgert)
 
 ## Ethereum
 
