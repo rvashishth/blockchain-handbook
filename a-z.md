@@ -48,7 +48,7 @@ https://bitgert.com/
 
 **Cost:** 100k transactionm, near zero fee. 
 
-**Developer Tools:** TBD
+**Developer Tools:** [trufflesuite](https://trufflesuite.com/index.html), [Solidity](https://solidity.readthedocs.io/en/v0.7.1/), [Remix IDE]( https://remix.ethereum.org/), [Web3JS](https://web3js.readthedocs.io/en/v1.2.11/)
 
 ## Centcex
 
