@@ -9,6 +9,8 @@
   - [Practical Byzantine Fault Tolerance](#practical-byzantine-fault-tolerance)
   - [Unique Node List](#unique-node-list)
   - [Direct Acyclic Graph](#direct-acyclic-graph)
+  - [Proof of Storage](#proof-of-storage)
+  - [Proof of replication](#proof-of-replication)
   
 ## Overview
 
@@ -53,3 +55,7 @@ All reward goes to miner who completes the block first. Other competing minors g
 ### Direct Acyclic Graph
 
 > Blockchains: IOTA, Nano
+
+### Proof of Storage
+
+### Proof of replication

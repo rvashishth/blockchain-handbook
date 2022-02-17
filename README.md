@@ -5,9 +5,6 @@
 - [Learning](#learning)
   - [Courses](#courses)
   - [Good Reads](#good-reads)
-  - [One Time](#one-time)
-    - [Videos](#videos)
-    - [Articles](#articles)
 - [Challenges](#challenges)
 - [Buzzwords](#buzzwords)
 - [TODO](#todo)
@@ -19,6 +16,10 @@
 Each blockchain has the currency with it to incentivise people mining/working/validating on the blocks. Rising cost of the coins makes a blockchain famous and invites more users towards it.  Same is the logic why people may adopt a new blockchain. 
 
 Blochain and crypto going hand in hand. They complement it each other, and it's hard to imagine one exist without the other. 
+
+**Coin vs Token** 
+
+Cryptocurrencies coins are the native asset of a blockchain like BTC, RBTC, or ETH, whereas tokens are built on an existing blockchain, using smart contracts. Consider coin as self owned car vs token as rental car. 
 
 ## Use Cases
 
@@ -42,16 +43,11 @@ Blochain and crypto going hand in hand. They complement it each other, and it's 
 
 ### Good Reads
 
-> places to revisit frequently
-
-### One Time
-
-#### Videos
+Wikipedia of blockchain: https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6
 
 - [Basics of blockchain ecosystem](https://www.youtube.com/watch?v=jE5gihGbvKs&t=88s), https://juhaekman.com/blockchain-ecosystems-crypto-ecosystems
 - [ArGoApp whitepaper](https://drive.google.com/file/d/1F1QNr0BMvS4_NIWfYbjD-14kva3wkyKp/view)
 
-#### Articles
 
 ## Challenges
 
