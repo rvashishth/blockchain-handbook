@@ -5,10 +5,12 @@ This document contain list of diff blockchain technologies, product and companie
 
 ## Cardano
 
-https://cardano.org/
+https://cardano.org/ developed by https://iohk.io/en/technology/
 
 **Overview:** Blockchain’s capability scales linearly with its usage. things speed up as more users use a system. 
 
 **Protocol:** Proof of Stack, Ouroboros
 
 **Know for:** Scalability, Interoperability
+
+**StableFee** YES
