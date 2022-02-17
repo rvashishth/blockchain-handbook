@@ -6,6 +6,9 @@ This document contain list of diff blockchain technologies, product and companie
 - [Cardano](#cardano)
 - [Solana](#solana)
 - [Bitgert](#bitgert)
+- [Centcex](#centcex)
+- [Matic](#matic)
+- [Avalanche](#avalanche)
 
 ## Ethereum
 
@@ -39,3 +42,7 @@ https://bitgert.com/
 
 **Cost:** 100k transactionm, near zero fee. 
 
+
+## Centcex
+## Matic
+## Avalanche
