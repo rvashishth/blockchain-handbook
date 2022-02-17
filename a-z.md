@@ -2,6 +2,11 @@
 
 This document contain list of diff blockchain technologies, product and companies tagged with their unique offerings
 
+- [Ethereum](#ethereum)
+- [Cardano](#cardano)
+- [Solana](#solana)
+- [Birgert](#birgert)
+
 ## Ethereum
 
 **Cost** Ethereum (block time: 13 seconds, block size: 70 transactions). This fee can fluctuate dramatically depending on transaction volume across the network. Fee may vary between 10 to 100,200 USD per transaction.
@@ -27,3 +32,10 @@ https://solana.com/
 **Protocol:** Proof of Stack
 
 **Cost** Solana has better block time (0.4 seconds) and block size (20,000 transactions) thus low transaction fee of just $0.00025 per transaction.
+
+## Birgert
+
+https://bitgert.com/
+
+**Cost:** 100k transactionm, near zero fee. 
+
