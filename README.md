@@ -7,7 +7,7 @@
   - [Good Reads](#good-reads)
 - [Challenges](#challenges)
 - [Buzzwords](#buzzwords)
-- [TODO](#todo)
+- [A-Z](#a-z)
 
 ## Overview
 
@@ -57,6 +57,6 @@ Wikipedia of blockchain: https://golden.com/wiki/Blockchain_and_cryptocurrency-8
 
 [Buzzwords](./buzzwords.md)
 
-## TODO
+## A-Z
 
-[Todo](./todo)
+[List of blockchains](./a-z.md)
