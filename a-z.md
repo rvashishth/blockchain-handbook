@@ -12,6 +12,8 @@ https://cardano.org/ developed by https://iohk.io/en/technology/
 
 **Overview:** Blockchain’s capability scales linearly with its usage. things speed up as more users use a system. 
 
+**What for:** Layered blockchain for smart contract and dapp development
+
 **Protocol:** Proof of Stack, Ouroboros
 
 **Know for:** Scalability, Interoperability
