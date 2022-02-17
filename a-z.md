@@ -14,6 +14,8 @@ This document contain list of diff blockchain technologies, product and companie
 
 **Cost** Ethereum (block time: 13 seconds, block size: 70 transactions). This fee can fluctuate dramatically depending on transaction volume across the network. Fee may vary between 10 to 100,200 USD per transaction.
 
+**Developer Tools:** TBD
+
 ## Cardano
 
 https://cardano.org/ developed by https://iohk.io/en/technology/
@@ -26,7 +28,9 @@ https://cardano.org/ developed by https://iohk.io/en/technology/
 
 **Know for:** Scalability, Interoperability
 
-**StableFee** YES
+**Cost:** TBD
+
+**Developer Tools:** TBD
 
 ## Solana
 
@@ -36,13 +40,30 @@ https://solana.com/
 
 **Cost** Solana has better block time (0.4 seconds) and block size (20,000 transactions) thus low transaction fee of just $0.00025 per transaction.
 
+**Developer Tools:** TBD
+
 ## Bitgert
 
 https://bitgert.com/
 
 **Cost:** 100k transactionm, near zero fee. 
 
+**Developer Tools:** TBD
 
 ## Centcex
+
+**Cost:** TBD
+
+**Developer Tools:** TBD
+
 ## Matic
+
+**Cost:** TBD
+
+**Developer Tools:** TBD
+
 ## Avalanche
+
+**Cost:** TBD
+
+**Developer Tools:** TBD
