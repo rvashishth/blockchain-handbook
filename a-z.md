@@ -33,7 +33,7 @@ https://solana.com/
 
 **Cost** Solana has better block time (0.4 seconds) and block size (20,000 transactions) thus low transaction fee of just $0.00025 per transaction.
 
-## Birgert
+## Bitgert
 
 https://bitgert.com/
 
