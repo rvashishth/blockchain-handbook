@@ -4,6 +4,6 @@ And the front end? It pretty much stays the same, with some exceptions.
 
 
 
-ref - 
-https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application
-https://ethereum.org/en/developers/docs/web2-vs-web3/
+Ref:
+- https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application
+- https://ethereum.org/en/developers/docs/web2-vs-web3/
