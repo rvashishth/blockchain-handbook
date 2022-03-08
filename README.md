@@ -21,6 +21,10 @@ Blochain and crypto going hand in hand. They complement it each other, and it's 
 
 Cryptocurrencies coins are the native asset of a blockchain like BTC, RBTC, or ETH, whereas tokens are built on an existing blockchain, using smart contracts. Consider coin as self owned car vs token as rental car. 
 
+**Cost**
+
+Transaction fees vary between coins, depending on two key factors: the time required to generate new blocks on the blockchain and the number of transactions that a single block can handle. Some network offer stablefee(such as Cardano, Solano).
+
 ## Use Cases
 
 [Use Cases](./use-cases.md)
